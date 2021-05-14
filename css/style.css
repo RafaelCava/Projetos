@@ -103,3 +103,17 @@ section.sobre{
     height:40px;
     cursor: pointer;
 }
+
+.texto-sobre button:hover{
+    background-color: #04442a;
+}
+.sabores{
+    position: absolute;
+    bottom: 20;
+    left: 600;
+}
+
+.sabores img{
+    width: 50px;
+    margin: 0 20px;
+}
