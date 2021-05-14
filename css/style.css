@@ -55,3 +55,51 @@ section.sobre{
     border-radius: 50%;
     background-color: #017143;
 }
+
+.milk img{
+    position: absolute;
+    width: 350px;
+    top: 0;
+    left: 25;
+
+}
+.social_media{
+    position: absolute;
+    right: 570px;
+    top: 100px;
+}
+
+.social_media img{
+    display: block;
+    width: 22px;
+    margin: 30px 0;
+}
+
+.texto-sobre{
+    margin-top: 70px;
+}
+
+.texto-sobre h1{
+    font-size: 50px;
+    font-weight: lighter;
+}
+
+.texto-sobre p{
+    margin: 20px 0;
+    color: black;
+    font-size: 14px;
+    font-weight: bold;
+    max-width: 650px;
+}
+
+.texto-sobre button{
+    font-size: 14px;
+    font-weight: bold;
+    background-color: #017143;
+    color: white;
+    border: 0;
+    border-radius: 30px;
+    width: 130px;
+    height:40px;
+    cursor: pointer;
+}
